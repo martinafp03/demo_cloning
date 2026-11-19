@@ -1,3 +1,3 @@
-# The name of my project
+# The Solar System
 
-A brief description of my project
+A simple simulation of a 2D Solar System with a Sun and a planet Earth
